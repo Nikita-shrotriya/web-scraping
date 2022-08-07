@@ -1,0 +1,25 @@
+{
+    "Name": "Toy Story 2",
+    "Rating": "G",
+    "Genre": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Kids&family",
+        "Adventure"
+    ],
+    "Language": "English",
+    "Director": [
+        "AshBrannon",
+        "JohnLasseter",
+        "LeeUnkrich"
+    ],
+    "Producer": [
+        "Karen",
+        "Robert",
+        "Jackson,",
+        "Helene",
+        "Plotkin"
+    ],
+    "Runtime": 92
+}

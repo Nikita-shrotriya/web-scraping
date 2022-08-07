@@ -1,0 +1,680 @@
+{
+    "2019": [
+        {
+            "rank": 1,
+            "movieName": "toy_story_4",
+            "moviceurl": "https://www.rottentomatoes.com/m/toy_story_4",
+            "Year": 2019
+        },
+        {
+            "rank": 49,
+            "movieName": "how_to_train_your_dragon_the_hidden_world",
+            "moviceurl": "https://www.rottentomatoes.com/m/how_to_train_your_dragon_the_hidden_world",
+            "Year": 2019
+        },
+        {
+            "rank": 67,
+            "movieName": "i_lost_my_body",
+            "moviceurl": "https://www.rottentomatoes.com/m/i_lost_my_body",
+            "Year": 2019
+        },
+        {
+            "rank": 80,
+            "movieName": "the_lego_movie_2_the_second_part",
+            "moviceurl": "https://www.rottentomatoes.com/m/the_lego_movie_2_the_second_part",
+            "Year": 2019
+        },
+        {
+            "rank": 84,
+            "movieName": "klaus",
+            "moviceurl": "https://www.rottentomatoes.com/m/klaus",
+            "Year": 2019
+        },
+        {
+            "rank": 95,
+            "movieName": "missing_link_2019",
+            "moviceurl": "https://www.rottentomatoes.com/m/missing_link_2019",
+            "Year": 2019
+        }
+    ],
+    "2018": [
+        {
+            "rank": 2,
+            "movieName": "spider_man_into_the_spider_verse",
+            "moviceurl": "https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse",
+            "Year": 2018
+        },
+        {
+            "rank": 7,
+            "movieName": "incredibles_2",
+            "moviceurl": "https://www.rottentomatoes.com/m/incredibles_2",
+            "Year": 2018
+        },
+        {
+            "rank": 9,
+            "movieName": "paddington_2",
+            "moviceurl": "https://www.rottentomatoes.com/m/paddington_2",
+            "Year": 2018
+        },
+        {
+            "rank": 19,
+            "movieName": "isle_of_dogs_2018",
+            "moviceurl": "https://www.rottentomatoes.com/m/isle_of_dogs_2018",
+            "Year": 2018
+        },
+        {
+            "rank": 62,
+            "movieName": "ralph_breaks_the_internet",
+            "moviceurl": "https://www.rottentomatoes.com/m/ralph_breaks_the_internet",
+            "Year": 2018
+        },
+        {
+            "rank": 66,
+            "movieName": "liyana",
+            "moviceurl": "https://www.rottentomatoes.com/m/liyana",
+            "Year": 2018
+        },
+        {
+            "rank": 85,
+            "movieName": "teen_titans_go_to_the_movies",
+            "moviceurl": "https://www.rottentomatoes.com/m/teen_titans_go_to_the_movies",
+            "Year": 2018
+        }
+    ],
+    "2015": [
+        {
+            "rank": 3,
+            "movieName": "inside_out_2015",
+            "moviceurl": "https://www.rottentomatoes.com/m/inside_out_2015",
+            "Year": 2015
+        },
+        {
+            "rank": 23,
+            "movieName": "shaun_the_sheep_movie",
+            "moviceurl": "https://www.rottentomatoes.com/m/shaun_the_sheep_movie",
+            "Year": 2015
+        },
+        {
+            "rank": 38,
+            "movieName": "anomalisa",
+            "moviceurl": "https://www.rottentomatoes.com/m/anomalisa",
+            "Year": 2015
+        },
+        {
+            "rank": 97,
+            "movieName": "boy_and_the_world",
+            "moviceurl": "https://www.rottentomatoes.com/m/boy_and_the_world",
+            "Year": 2015
+        },
+        {
+            "rank": 98,
+            "movieName": "the_peanuts_movie",
+            "moviceurl": "https://www.rottentomatoes.com/m/the_peanuts_movie",
+            "Year": 2015
+        },
+        {
+            "rank": 99,
+            "movieName": "when_marnie_was_there",
+            "moviceurl": "https://www.rottentomatoes.com/m/when_marnie_was_there",
+            "Year": 2015
+        }
+    ],
+    "2017": [
+        {
+            "rank": 4,
+            "movieName": "coco_2017",
+            "moviceurl": "https://www.rottentomatoes.com/m/coco_2017",
+            "Year": 2017
+        },
+        {
+            "rank": 29,
+            "movieName": "my_life_as_a_zucchini",
+            "moviceurl": "https://www.rottentomatoes.com/m/my_life_as_a_zucchini",
+            "Year": 2017
+        },
+        {
+            "rank": 31,
+            "movieName": "the_lego_batman_movie",
+            "moviceurl": "https://www.rottentomatoes.com/m/the_lego_batman_movie",
+            "Year": 2017
+        },
+        {
+            "rank": 43,
+            "movieName": "your_name_2017",
+            "moviceurl": "https://www.rottentomatoes.com/m/your_name_2017",
+            "Year": 2017
+        },
+        {
+            "rank": 61,
+            "movieName": "the_red_turtle",
+            "moviceurl": "https://www.rottentomatoes.com/m/the_red_turtle",
+            "Year": 2017
+        },
+        {
+            "rank": 68,
+            "movieName": "the_breadwinner",
+            "moviceurl": "https://www.rottentomatoes.com/m/the_breadwinner",
+            "Year": 2017
+        }
+    ],
+    "1937": [
+        {
+            "rank": 5,
+            "movieName": "1048445-snow_white_and_the_seven_dwarfs",
+            "moviceurl": "https://www.rottentomatoes.com/m/1048445-snow_white_and_the_seven_dwarfs",
+            "Year": 1937
+        }
+    ],
+    "2020": [
+        {
+            "rank": 6,
+            "movieName": "soul_2020",
+            "moviceurl": "https://www.rottentomatoes.com/m/soul_2020",
+            "Year": 2020
+        },
+        {
+            "rank": 21,
+            "movieName": "wolfwalkers",
+            "moviceurl": "https://www.rottentomatoes.com/m/wolfwalkers",
+            "Year": 2020
+        },
+        {
+            "rank": 36,
+            "movieName": "onward",
+            "moviceurl": "https://www.rottentomatoes.com/m/onward",
+            "Year": 2020
+        },
+        {
+            "rank": 69,
+            "movieName": "a_shaun_the_sheep_movie_farmageddon",
+            "moviceurl": "https://www.rottentomatoes.com/m/a_shaun_the_sheep_movie_farmageddon",
+            "Year": 2020
+        }
+    ],
+    "2016": [
+        {
+            "rank": 8,
+            "movieName": "zootopia",
+            "moviceurl": "https://www.rottentomatoes.com/m/zootopia",
+            "Year": 2016
+        },
+        {
+            "rank": 13,
+            "movieName": "finding_dory",
+            "moviceurl": "https://www.rottentomatoes.com/m/finding_dory",
+            "Year": 2016
+        },
+        {
+            "rank": 17,
+            "movieName": "moana_2016",
+            "moviceurl": "https://www.rottentomatoes.com/m/moana_2016",
+            "Year": 2016
+        },
+        {
+            "rank": 20,
+            "movieName": "kubo_and_the_two_strings_2016",
+            "moviceurl": "https://www.rottentomatoes.com/m/kubo_and_the_two_strings_2016",
+            "Year": 2016
+        },
+        {
+            "rank": 45,
+            "movieName": "tower_2016",
+            "moviceurl": "https://www.rottentomatoes.com/m/tower_2016",
+            "Year": 2016
+        },
+        {
+            "rank": 63,
+            "movieName": "long_way_north",
+            "moviceurl": "https://www.rottentomatoes.com/m/long_way_north",
+            "Year": 2016
+        }
+    ],
+    "2009": [
+        {
+            "rank": 10,
+            "movieName": "up",
+            "moviceurl": "https://www.rottentomatoes.com/m/up",
+            "Year": 2009
+        },
+        {
+            "rank": 53,
+            "movieName": "1197696-fantastic_mr_fox",
+            "moviceurl": "https://www.rottentomatoes.com/m/1197696-fantastic_mr_fox",
+            "Year": 2009
+        },
+        {
+            "rank": 64,
+            "movieName": "coraline",
+            "moviceurl": "https://www.rottentomatoes.com/m/coraline",
+            "Year": 2009
+        },
+        {
+            "rank": 82,
+            "movieName": "1209767-mary_and_max",
+            "moviceurl": "https://www.rottentomatoes.com/m/1209767-mary_and_max",
+            "Year": 2009
+        },
+        {
+            "rank": 83,
+            "movieName": "ponyo",
+            "moviceurl": "https://www.rottentomatoes.com/m/ponyo",
+            "Year": 2009
+        }
+    ],
+    "2010": [
+        {
+            "rank": 11,
+            "movieName": "toy_story_3",
+            "moviceurl": "https://www.rottentomatoes.com/m/toy_story_3",
+            "Year": 2010
+        },
+        {
+            "rank": 22,
+            "movieName": "how_to_train_your_dragon",
+            "moviceurl": "https://www.rottentomatoes.com/m/how_to_train_your_dragon",
+            "Year": 2010
+        },
+        {
+            "rank": 87,
+            "movieName": "tangled",
+            "moviceurl": "https://www.rottentomatoes.com/m/tangled",
+            "Year": 2010
+        }
+    ],
+    "1999": [
+        {
+            "rank": 12,
+            "movieName": "toy_story_2",
+            "moviceurl": "https://www.rottentomatoes.com/m/toy_story_2",
+            "Year": 1999
+        },
+        {
+            "rank": 44,
+            "movieName": "iron_giant",
+            "moviceurl": "https://www.rottentomatoes.com/m/iron_giant",
+            "Year": 1999
+        },
+        {
+            "rank": 76,
+            "movieName": "princess_mononoke_1999",
+            "moviceurl": "https://www.rottentomatoes.com/m/princess_mononoke_1999",
+            "Year": 1999
+        }
+    ],
+    "2003": [
+        {
+            "rank": 14,
+            "movieName": "finding_nemo",
+            "moviceurl": "https://www.rottentomatoes.com/m/finding_nemo",
+            "Year": 2003
+        },
+        {
+            "rank": 74,
+            "movieName": "the_triplets_of_belleville",
+            "moviceurl": "https://www.rottentomatoes.com/m/the_triplets_of_belleville",
+            "Year": 2003
+        }
+    ],
+    "1940": [
+        {
+            "rank": 15,
+            "movieName": "pinocchio_1940",
+            "moviceurl": "https://www.rottentomatoes.com/m/pinocchio_1940",
+            "Year": 1940
+        },
+        {
+            "rank": 46,
+            "movieName": "fantasia",
+            "moviceurl": "https://www.rottentomatoes.com/m/fantasia",
+            "Year": 1940
+        }
+    ],
+    "2014": [
+        {
+            "rank": 16,
+            "movieName": "the_lego_movie",
+            "moviceurl": "https://www.rottentomatoes.com/m/the_lego_movie",
+            "Year": 2014
+        },
+        {
+            "rank": 42,
+            "movieName": "song_of_the_sea_2014",
+            "moviceurl": "https://www.rottentomatoes.com/m/song_of_the_sea_2014",
+            "Year": 2014
+        },
+        {
+            "rank": 56,
+            "movieName": "ernest_and_celestine",
+            "moviceurl": "https://www.rottentomatoes.com/m/ernest_and_celestine",
+            "Year": 2014
+        },
+        {
+            "rank": 65,
+            "movieName": "big_hero_6",
+            "moviceurl": "https://www.rottentomatoes.com/m/big_hero_6",
+            "Year": 2014
+        },
+        {
+            "rank": 73,
+            "movieName": "how_to_train_your_dragon_2",
+            "moviceurl": "https://www.rottentomatoes.com/m/how_to_train_your_dragon_2",
+            "Year": 2014
+        },
+        {
+            "rank": 94,
+            "movieName": "the_wind_rises",
+            "moviceurl": "https://www.rottentomatoes.com/m/the_wind_rises",
+            "Year": 2014
+        }
+    ],
+    "1995": [
+        {
+            "rank": 18,
+            "movieName": "toy_story",
+            "moviceurl": "https://www.rottentomatoes.com/m/toy_story",
+            "Year": 1995
+        }
+    ],
+    "2008": [
+        {
+            "rank": 24,
+            "movieName": "wall_e",
+            "moviceurl": "https://www.rottentomatoes.com/m/wall_e",
+            "Year": 2008
+        },
+        {
+            "rank": 48,
+            "movieName": "waltz_with_bashir",
+            "moviceurl": "https://www.rottentomatoes.com/m/waltz_with_bashir",
+            "Year": 2008
+        },
+        {
+            "rank": 86,
+            "movieName": "bolt",
+            "moviceurl": "https://www.rottentomatoes.com/m/bolt",
+            "Year": 2008
+        }
+    ],
+    "2007": [
+        {
+            "rank": 25,
+            "movieName": "ratatouille",
+            "moviceurl": "https://www.rottentomatoes.com/m/ratatouille",
+            "Year": 2007
+        },
+        {
+            "rank": 51,
+            "movieName": "persepolis",
+            "moviceurl": "https://www.rottentomatoes.com/m/persepolis",
+            "Year": 2007
+        },
+        {
+            "rank": 96,
+            "movieName": "simpsons_movie",
+            "moviceurl": "https://www.rottentomatoes.com/m/simpsons_movie",
+            "Year": 2007
+        }
+    ],
+    "1941": [
+        {
+            "rank": 26,
+            "movieName": "dumbo",
+            "moviceurl": "https://www.rottentomatoes.com/m/dumbo",
+            "Year": 1941
+        }
+    ],
+    "2021": [
+        {
+            "rank": 27,
+            "movieName": "raya_and_the_last_dragon",
+            "moviceurl": "https://www.rottentomatoes.com/m/raya_and_the_last_dragon",
+            "Year": 2021
+        },
+        {
+            "rank": 50,
+            "movieName": "luca_2021",
+            "moviceurl": "https://www.rottentomatoes.com/m/luca_2021",
+            "Year": 2021
+        }
+    ],
+    "2004": [
+        {
+            "rank": 28,
+            "movieName": "incredibles",
+            "moviceurl": "https://www.rottentomatoes.com/m/incredibles",
+            "Year": 2004
+        },
+        {
+            "rank": 88,
+            "movieName": "shrek_2",
+            "moviceurl": "https://www.rottentomatoes.com/m/shrek_2",
+            "Year": 2004
+        }
+    ],
+    "1991": [
+        {
+            "rank": 30,
+            "movieName": "only_yesterday_1991",
+            "moviceurl": "https://www.rottentomatoes.com/m/only_yesterday_1991",
+            "Year": 1991
+        },
+        {
+            "rank": 34,
+            "movieName": "beauty_and_the_beast_1991",
+            "moviceurl": "https://www.rottentomatoes.com/m/beauty_and_the_beast_1991",
+            "Year": 1991
+        }
+    ],
+    "2000": [
+        {
+            "rank": 32,
+            "movieName": "chicken_run",
+            "moviceurl": "https://www.rottentomatoes.com/m/chicken_run",
+            "Year": 2000
+        }
+    ],
+    "1961": [
+        {
+            "rank": 33,
+            "movieName": "101_dalmatians",
+            "moviceurl": "https://www.rottentomatoes.com/m/101_dalmatians",
+            "Year": 1961
+        }
+    ],
+    "1993": [
+        {
+            "rank": 35,
+            "movieName": "nightmare_before_christmas",
+            "moviceurl": "https://www.rottentomatoes.com/m/nightmare_before_christmas",
+            "Year": 1993
+        }
+    ],
+    "2001": [
+        {
+            "rank": 37,
+            "movieName": "monsters_inc",
+            "moviceurl": "https://www.rottentomatoes.com/m/monsters_inc",
+            "Year": 2001
+        },
+        {
+            "rank": 91,
+            "movieName": "shrek",
+            "moviceurl": "https://www.rottentomatoes.com/m/shrek",
+            "Year": 2001
+        },
+        {
+            "rank": 100,
+            "movieName": "millennium_actress_2001",
+            "moviceurl": "https://www.rottentomatoes.com/m/millennium_actress_2001",
+            "Year": 2001
+        }
+    ],
+    "2002": [
+        {
+            "rank": 39,
+            "movieName": "spirited_away",
+            "moviceurl": "https://www.rottentomatoes.com/m/spirited_away",
+            "Year": 2002
+        }
+    ],
+    "1988": [
+        {
+            "rank": 40,
+            "movieName": "grave_of_the_fireflies",
+            "moviceurl": "https://www.rottentomatoes.com/m/grave_of_the_fireflies",
+            "Year": 1988
+        },
+        {
+            "rank": 47,
+            "movieName": "who_framed_roger_rabbit",
+            "moviceurl": "https://www.rottentomatoes.com/m/who_framed_roger_rabbit",
+            "Year": 1988
+        },
+        {
+            "rank": 77,
+            "movieName": "my_neighbor_totoro",
+            "moviceurl": "https://www.rottentomatoes.com/m/my_neighbor_totoro",
+            "Year": 1988
+        }
+    ],
+    "1994": [
+        {
+            "rank": 41,
+            "movieName": "the_lion_king",
+            "moviceurl": "https://www.rottentomatoes.com/m/the_lion_king",
+            "Year": 1994
+        }
+    ],
+    "2005": [
+        {
+            "rank": 52,
+            "movieName": "wallace_and_gromit_curse_of_the_wererabbit",
+            "moviceurl": "https://www.rottentomatoes.com/m/wallace_and_gromit_curse_of_the_wererabbit",
+            "Year": 2005
+        }
+    ],
+    "1968": [
+        {
+            "rank": 54,
+            "movieName": "beatles_the_yellow_submarine",
+            "moviceurl": "https://www.rottentomatoes.com/m/beatles_the_yellow_submarine",
+            "Year": 1968
+        }
+    ],
+    "1989": [
+        {
+            "rank": 55,
+            "movieName": "kikis_delivery_service",
+            "moviceurl": "https://www.rottentomatoes.com/m/kikis_delivery_service",
+            "Year": 1989
+        },
+        {
+            "rank": 72,
+            "movieName": "the_little_mermaid_1989",
+            "moviceurl": "https://www.rottentomatoes.com/m/the_little_mermaid_1989",
+            "Year": 1989
+        }
+    ],
+    "1992": [
+        {
+            "rank": 57,
+            "movieName": "disneys_aladdin",
+            "moviceurl": "https://www.rottentomatoes.com/m/disneys_aladdin",
+            "Year": 1992
+        }
+    ],
+    "2012": [
+        {
+            "rank": 58,
+            "movieName": "the_secret_world_of_arrietty",
+            "moviceurl": "https://www.rottentomatoes.com/m/the_secret_world_of_arrietty",
+            "Year": 2012
+        },
+        {
+            "rank": 89,
+            "movieName": "paranorman",
+            "moviceurl": "https://www.rottentomatoes.com/m/paranorman",
+            "Year": 2012
+        },
+        {
+            "rank": 90,
+            "movieName": "frankenweenie_2012",
+            "moviceurl": "https://www.rottentomatoes.com/m/frankenweenie_2012",
+            "Year": 2012
+        }
+    ],
+    "1996": [
+        {
+            "rank": 59,
+            "movieName": "ghost_in_the_shell",
+            "moviceurl": "https://www.rottentomatoes.com/m/ghost_in_the_shell",
+            "Year": 1996
+        },
+        {
+            "rank": 92,
+            "movieName": "james_and_the_giant_peach",
+            "moviceurl": "https://www.rottentomatoes.com/m/james_and_the_giant_peach",
+            "Year": 1996
+        }
+    ],
+    "2013": [
+        {
+            "rank": 60,
+            "movieName": "frozen_2013",
+            "moviceurl": "https://www.rottentomatoes.com/m/frozen_2013",
+            "Year": 2013
+        }
+    ],
+    "1982": [
+        {
+            "rank": 70,
+            "movieName": "secret_of_nimh",
+            "moviceurl": "https://www.rottentomatoes.com/m/secret_of_nimh",
+            "Year": 1982
+        }
+    ],
+    "1942": [
+        {
+            "rank": 71,
+            "movieName": "bambi",
+            "moviceurl": "https://www.rottentomatoes.com/m/bambi",
+            "Year": 1942
+        }
+    ],
+    "1955": [
+        {
+            "rank": 75,
+            "movieName": "lady_and_the_tramp",
+            "moviceurl": "https://www.rottentomatoes.com/m/lady_and_the_tramp",
+            "Year": 1955
+        }
+    ],
+    "2011": [
+        {
+            "rank": 78,
+            "movieName": "arthur_christmas",
+            "moviceurl": "https://www.rottentomatoes.com/m/arthur_christmas",
+            "Year": 2011
+        },
+        {
+            "rank": 93,
+            "movieName": "rango",
+            "moviceurl": "https://www.rottentomatoes.com/m/rango",
+            "Year": 2011
+        }
+    ],
+    "1998": [
+        {
+            "rank": 79,
+            "movieName": "antz",
+            "moviceurl": "https://www.rottentomatoes.com/m/antz",
+            "Year": 1998
+        },
+        {
+            "rank": 81,
+            "movieName": "bugs_life",
+            "moviceurl": "https://www.rottentomatoes.com/m/bugs_life",
+            "Year": 1998
+        }
+    ]
+}
